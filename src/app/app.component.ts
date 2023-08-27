@@ -133,8 +133,8 @@ export class AppComponent {
       }
     }, 50);
   }
-constructor(private myService :MyServiceService){}
+/*constructor(private myService :MyServiceService){}
 send(){
   this.myService.sendEmail()
-}
+}*/
 }
